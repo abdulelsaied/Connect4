@@ -1,5 +1,3 @@
-// Name: Abdul-Rahman El-Saied
-// Class: CIS 25 w/ Dr. Allen
 // This program is a Connect-4 game. Two players switch off, placing their respective
 // markers on a 6x7 board. First person to get 4 ina row (horizontal + vertical) wins.
 
